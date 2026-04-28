@@ -2,96 +2,94 @@
 projeto final de programação web.
 
 
+MARCUS VENICIUS DA SILVA
+
+Arte
+
+IZAAC SHALLON GOMES COSTA
+
+Banco de Dados
+Programação Estruturada e Orientada a Objetos
+
+SIMONE CASSIANO DE LIMA SOUSA
+
+Biologia
+
 ADRIANO MARQUES DE SOUZA
 
 Componente Curricular 01
 Recomposição das Aprendizagens - Matemática
 
-ALESSANDRA SANTA ROSA DA SILVA
+RAPHAEL BENDER CHAGAS LEITE
 
-Matemática
-Redação
+Componente Curricular 01
+Metodologia do Trabalho Científico
+
+VERBENA NIDIANE DE MOURA RIBEIRO
+
+Componente Curricular 02
+História
+
+THELUZIO KLAYTON MARINHO CAMPOS
+
+Educação Física
+Empreendedorismo e Inovação Tecnológica e Social
+Orientação Acadêmica
 
 BERNARDO RAFAEL DE SOUSA NUNES
 
+Filosofia
+
+IANE OHANNA DE ARAUJO LABRE DA NOBREGA
+
 Física
+
+LUCIANA TAVARES SANTIAGO
+
+Geografia
+Orientação Acadêmica
+
+DANILO SARAFIM DA SILVA
+
+Língua Espanhola
+
+ELIANA MARIA BARBOSA NASCIMENTO
+
+Língua Inglesa
+
+ALESSANDRA SANTA ROSA DA SILVA
+
+Língua Portuguesa
+Redação
+
+KACIO JOSE CARDOSO SANTOS
+
+Matemática
+
+ELCIO CORREIA DE SOUZA TAVARES
+
+Práticas Experimentais
 
 CRISTIANE DOS SANTOS SILVA FERREIRA
 
 Professor de Educação Especial
 
-DANILO SARAFIM DA SILVA
-
-Língua Inglesa
-
-ELCÍO CORREIA DE SOUZA TAVARES
-
-Práticas Experimentais
-
-ELIANA MARIA BARBOSA NASCIMENTO
-
-Língua Portuguesa
-
-EWERTON RICHARD FERNANDES TEIXEIRA
-
-Química
-
-IANE OHANNA DE ARAUJO LABRE DA NOBREGA
-
-Geografia
-
-IZAAC SHALLON GOMES COSTA
-
-Banco de Dados
-Biologia
-Programação Estruturada e Orientada a Objetos
-
-KACIO JOSE CARDOSO SANTOS
-
-Metodologia do Trabalho Científico
-
-LEIDIVANIA MENDES DE ARAUJO MELCHUNA
-
-Recomposição das Aprendizagens - Português
-
 LUANA LORENA SALES DA COSTA REIS
 
 Professor de Educação Especial
-
-LUCIANA TAVARES SANTIAGO
-
-História
-Orientação Acadêmica
-
-MARCUS VENICIUS DA SILVA
-
-Banco de Dados
-
-MARIA ELIZANGELA MENDES DE MORAIS
-
-Sociologia
-
-RAPHAEL BENDER CHAGAS LEITE
-
-Componente Curricular 02
-Metodologia do Trabalho Científico
 
 RENAN ALVES DE MORAIS ROCHA
 
 Programação WEB
 
-SIMONE CASSIANO DE LIMA SOUSA
+EWERTON RICHARD FERNANDES TEIXEIRA
 
-Componente Curricular 01
+Química
 
-THELUZIO KLAYTON MARINHO CAMPOS
+LEIDIVANIA MENDES DE ARAUJO MELCHUNA
 
-Empreendedorismo e Inovação Tecnológica e Social
-Filosofia
-Orientação Acadêmica
+Recomposição das Aprendizagens - Português
 
-VERBENA NIDIANE DE MOURA RIBEIRO
+MARIA ELIZANGELA MENDES DE MORAIS
 
-Componente Curricular 02
-Educação Física
-Língua Espanhola
+Sociologia
